@@ -1,0 +1,10 @@
+name: ShutDown
+version: 0.0.1
+author: l1npengtul
+main: me.l1npengtul.shutdown.shutdown
+commands:
+  shutdown:
+      description: ShutDown the server and saves all.
+      usage: /<command>
+      permission: <command>.shutdown
+      permission-message: You cant shutdown the server!
