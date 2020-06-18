@@ -2,6 +2,8 @@ Minecraft Shutdown Plugin for SpigotMC
 
 Simply run
 ```
-/shutdown```
+/shutdown
+```
 to shutdown your server
 Feel free to open an issue for extra features you would like to see!
+
