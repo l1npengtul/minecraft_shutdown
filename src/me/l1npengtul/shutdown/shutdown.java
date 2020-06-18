@@ -1,5 +1,12 @@
 package me.l1npengtul.shutdown;
 
+/*
+Licensed under the GNU GPL v3
+Made by l1npengtul (l1npengtul Rho)
+Main file for getting server command and shutdown
+ */
+
+
 import com.google.common.util.concurrent.AbstractScheduledService;
 import org.bukkit.Bukkit;
 import org.bukkit.World;
